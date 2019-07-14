@@ -1,10 +1,13 @@
+
 **index.html**
-    <p class="line" style ="width:65%;">&nbsp;</p>  
-    <p class="line" style ="width:55%;">&nbsp;</p>  
-    <p class="line" style ="width:68%;">&nbsp;</p>  
-    <p class="line" style ="width:73%;">&nbsp;</p>  
-    <p class="line" style ="width:25%;">&nbsp;</p>  
-    <p class="line" style ="width:60%;">&nbsp;</p>
+ 
+
+        <p class="line" style ="width:65%;">&nbsp;</p>  
+        <p class="line" style ="width:55%;">&nbsp;</p>  
+        <p class="line" style ="width:68%;">&nbsp;</p>  
+        <p class="line" style ="width:73%;">&nbsp;</p>  
+        <p class="line" style ="width:25%;">&nbsp;</p>  
+        <p class="line" style ="width:60%;">&nbsp;</p>
 
 **style.css**
 
