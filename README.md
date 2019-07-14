@@ -49,4 +49,4 @@
     /*Shimmer Effect*/
 
 
-<img src="https://picasaweb.google.com/116089211871967643869/6713660268003762385#6713660269595717714" / >
+<img src="https://github.com/kunz398/Shimmering-effect-for-webpages/blob/master/demo.gif" / >
