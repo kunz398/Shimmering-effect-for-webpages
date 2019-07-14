@@ -1,7 +1,4 @@
-
-
 **index.html**
-
     <p class="line" style ="width:65%;">&nbsp;</p>  
     <p class="line" style ="width:55%;">&nbsp;</p>  
     <p class="line" style ="width:68%;">&nbsp;</p>  
@@ -47,6 +44,5 @@
       }  
     }  
     /*Shimmer Effect*/
-
-
-<img src="https://github.com/kunz398/Shimmering-effect-for-webpages/blob/master/demo.gif" / >
+    
+<img src="https://github.com/kunz398/Shimmering-effect-for-webpages/blob/master/demo.gif"/>
